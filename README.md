@@ -1,4 +1,4 @@
-# joomipoll.github.io/progressbar
+# msiboriseltsin.github.io/progressbar
 
 Not yet ready! Need to convert animation to gif (this is what i'm doing now)
 
@@ -10,7 +10,7 @@ The following arguments are used to set up the progressbar: <br>
 - `duration` - sets the run time of the loading bar (for example `10s`)
 - `percent` - sets the loading bar percentage (for example `50%`)
 
-Syntax: `https://joomipoll.github.io/progressbar/index.html?<attribute1>=<value1>&<attribute2>=<value2>` <br>
+Syntax: `https://msiboriseltsin.github.io/progressbar/index.html?<attribute1>=<value1>&<attribute2>=<value2>` <br>
 
 > **IMPORTANT**:
 > `duration` argument is required
