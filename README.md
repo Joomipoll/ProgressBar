@@ -1,6 +1,7 @@
 # msiboriseltsin.github.io/progressbar
 
-Not yet ready! Need to convert animation to gif (this is what i'm doing now)
+> [!CAUTION]
+> Doesn't work for certain reasons
 
 ## Using
 The following arguments are used to set up the progressbar: <br>
