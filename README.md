@@ -12,7 +12,7 @@ The following arguments are used to set up the progressbar: <br>
 
 Syntax: `https://msiboriseltsin.github.io/progressbar/index.html?<attribute1>=<value1>&<attribute2>=<value2>` <br>
 
-> **IMPORTANT**:
+> [!IMPORTANT]
 > `duration` argument is required
 
 ## TODO
