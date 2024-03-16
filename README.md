@@ -17,9 +17,6 @@ Syntax: `https://msiboriseltsin.github.io/progressbar/index.html?<attribute1>=<v
 > `duration` argument is required
 
 ## TODO
+- [ ] Make the code work again
 - [x] Change the value of the duration parameter (flexibility)
 - [ ] Convert progressbar to gif
-
-## Special thanks
-- [@h7x4](https://github.com/h7x4)
-- [@Mr111ram](https://github.com/Mr111ram)
