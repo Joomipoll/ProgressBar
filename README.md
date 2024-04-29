@@ -20,3 +20,6 @@ Syntax: `https://msiboriseltsin.github.io/progressbar/index.html?<attribute1>=<v
 - [ ] Make the code work again
 - [x] Change the value of the duration parameter (flexibility)
 - [ ] Convert progressbar to gif
+
+<div id="progressbar" data-percent="1%" style="--width: 1"></div>
+<script src="https://raw.githubusercontent.com/MSIborisyeltsin/progressbar/tests/progressbar-plugin.js"></script>
