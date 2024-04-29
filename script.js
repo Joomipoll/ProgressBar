@@ -1,6 +1,6 @@
-const progressBar = document.getElementById("progressbar");
-
 window.addEventListener("load", (event) => {
+	const progressBar = document.getElementById("progressbar");
+	
 	var queryString = window.location.search;
 	var params = new URLSearchParams(queryString);
 
